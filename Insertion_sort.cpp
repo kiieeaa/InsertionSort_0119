@@ -16,3 +16,7 @@ void input() { //procedure input
             cout << "\nArray tidak boleh lebih dari 20\n." << endl; //memberikan pesan error jika banyaknya elemen pada array lebih dari 20
         }
     }
+    cout << endl;
+    cout << "=======================================";
+    cout << "==========Masukan Element Array==========";
+    cout << "=======================================";
